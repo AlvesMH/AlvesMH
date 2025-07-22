@@ -48,7 +48,7 @@ An interactive **Streamlit dashboard** to visualize and forecast aging-related f
 
 - Advanced **Retrieval-Augmented Generation (RAG)** pipelines  
 - Building **LLM-driven apps** for real-world social impact  
-- Predictive analytics with ** Complex cross-nested datastes**  
+- Predictive analytics with **Complex cross-nested datasets**  
 
 ---
 
