@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm AlvesMH  
 
 
-Welcome to my GitHub! I explore GenAI applications to Everyday tasks **Gen-AI-powered tools**, **automation scripts**, and **interactive dashboards** that make complex and repetitive tasks simpler, faster and more accessible.  
+Welcome to my GitHub! I explore GenAI applications to Everyday tasks | **Gen-AI-powered tools**, **automation scripts**, and **interactive dashboards** that make complex and repetitive tasks simpler, faster and more accessible.  
 
 ---
 
