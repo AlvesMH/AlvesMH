@@ -1,7 +1,11 @@
 # 👋 Hi there! I'm AlvesMH  
 
-
 Welcome to my GitHub! I explore GenAI applications to Everyday tasks | **Gen-AI-powered tools**, **automation scripts**, and **interactive dashboards** that make complex and repetitive tasks simpler, faster and more accessible.  
+
+---
+## 💡 My Philosophy
+
+I believe in **Augmented Intelligence**—AI should **amplify human potential**, not replace it. My projects often live at the intersection of **technology, ethics, and human behavior**.
 
 ---
 
