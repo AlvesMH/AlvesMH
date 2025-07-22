@@ -8,7 +8,7 @@ Welcome to my GitHub! I explore GenAI applications to Everyday tasks | **Gen-AI-
 ## 🌟 Featured Projects  
 
 ### 🧠 [RAG_agent](https://github.com/alvesmh/RAG_agent)  |  [Live-Demo](https://simple-rag-agent.onrender.com/)
-A **Retrieval-Augmented Generation (RAG) agent** that ingests PDF documents, converts them into embeddings to a VectorStore, and retrieves relevant answers with semantic search.  
+A **Retrieval-Augmented Generation (RAG) agent** that ingests PDF documents, converts them into embeddings in a VectorStore, and retrieves relevant answers with semantic search.  
 
 ### 🤖 [llm_bot](https://github.com/alvesmh/llm_bot)   |  [Live-Demo](https://happybotsite.onrender.com/)
 **HappyBot** – A **Generative AI Telegram Companion Bot** designed to provide empathetic, context-aware interactions for lonely seniors in Singapore.  
