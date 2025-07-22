@@ -7,20 +7,20 @@ Welcome to my GitHub! I explore GenAI applications to Everyday tasks | **Gen-AI-
 
 ## 🌟 Featured Projects  
 
-### 🧠 [RAG_agent](https://github.com/alvesmh/RAG_agent)  [Live-Demo](https://simple-rag-agent.onrender.com/)
+### 🧠 [RAG_agent](https://github.com/alvesmh/RAG_agent)  |  [Live-Demo](https://simple-rag-agent.onrender.com/)
 A **Retrieval-Augmented Generation (RAG) agent** that ingests PDF documents, converts them into embeddings using Hugging Face models, and retrieves relevant answers with semantic search.  
 
-### 🤖 [llm_bot](https://github.com/alvesmh/llm_bot)  [Live-Demo](https://happybotsite.onrender.com/)
+### 🤖 [llm_bot](https://github.com/alvesmh/llm_bot)   |  [Live-Demo](https://happybotsite.onrender.com/)
 **HappyBot** – A **Generative AI Telegram Companion Bot** designed to provide empathetic, context-aware interactions for lonely seniors in Singapore.  
 
-### 🛠️ [smart_code_enhancer](https://github.com/alvesmh/smart_code_enhancer)  [Live-Demo](https://code-enhancer.onrender.com/)
+### 🛠️ [smart_code_enhancer](https://github.com/alvesmh/smart_code_enhancer)   |  [Live-Demo](https://code-enhancer.onrender.com/)
 An **AI-powered code reviewer** that detects bugs, suggests improvements, and enforces **PEP 8 compliance**—all without requiring a GPU or complex setup.  
 
-### 📊 [Ageing_Dashboard](https://github.com/alvesmh/Ageing_Dashboard)  [Live-Demo](https://ageing-dashboard.onrender.com/)
+### 📊 [Ageing_Dashboard](https://github.com/alvesmh/Ageing_Dashboard)   |  [Live-Demo](https://ageing-dashboard.onrender.com/)
 An interactive **Streamlit dashboard** to visualize and forecast aging-related fiscal and demographic risks using **World Bank data** and **ARIMA models**.  
 
 
-* You may meed to wait a few seconds for Render to load the Live-Demo
+* You may need to wait a few seconds for Render to load the Live-Demo
 ---
 
 ## 🛠️ Tech Stack  
