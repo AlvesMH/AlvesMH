@@ -20,7 +20,7 @@ An **AI-powered code reviewer** that detects bugs, suggests improvements, and en
 An interactive **Streamlit dashboard** to visualize and forecast aging-related fiscal and demographic risks using **World Bank data** and **ARIMA models**.  
 
 
-* You may need to wait a few seconds for Render to load the Live-Demo
+* You may need to wait a few seconds for Render to load the Live-Demos
 ---
 
 ## 🛠️ Tech Stack  
