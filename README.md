@@ -56,4 +56,4 @@ An interactive **Streamlit dashboard** to visualize and forecast aging-related f
 
 ⭐ **If you like my work, consider giving my projects a star!**  
 
-(rag-generative-ai.jpg)
+![image](rag-generative-ai.jpg)
