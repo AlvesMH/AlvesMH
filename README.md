@@ -1,15 +1,19 @@
 # 👋 Hi there!
 
-Welcome to my GitHub! I explore GenAI applications to Everyday tasks | **Gen-AI-powered tools**, **automation scripts**, and **interactive dashboards** that make complex and repetitive tasks simpler, faster and more accessible.  
+Welcome to my GitHub!I use this space to prototype, document, and share **GenAI-powered tools, automation scripts, and intelligent workflows** designed to **augment human intelligence**—especially in the context of **learning, research, and strategic decision-making**.
 
 ---
-## 💡 My Philosophy
+## My Philosophy
 
 I believe in **Augmented Intelligence**—AI should **amplify human potential**, not replace it. My projects often live at the intersection of **technology, ethics, and human behavior**.
 
 ---
 
-## 🌟 Featured Projects  
+## Featured Projects  
+
+## 🧠 [RAG_Avatar](https://github.com/AlvesMH/Ask-Mark-RAG-Powered-AVATAR-)  |  [Live-Demo](https://ask-mark.onrender.com/)
+A **Context-aware Avatar powered by Sea-Lion & Pinecone**, with option of Uploading multiple PDFs for **Retrieval Augmented Generation**.
+![image](img4.jpg)
 
 ### 🧠 [RAG_agent](https://github.com/alvesmh/RAG_agent)  |  [Live-Demo](https://simple-rag-agent.onrender.com/)
 A **Retrieval-Augmented Generation (RAG) agent** that ingests PDF documents, converts them into embeddings in a VectorStore, and retrieves relevant answers with semantic search.  
@@ -35,6 +39,8 @@ An interactive **Streamlit dashboard** to visualize and forecast aging-related f
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+
 
 ---
 
@@ -50,13 +56,21 @@ An interactive **Streamlit dashboard** to visualize and forecast aging-related f
 
 ---
 
-## 🌱 What I’m Exploring  
+## What I’m Exploring  
 
-- Advanced **Retrieval-Augmented Generation (RAG)** pipelines  
-- Building **LLM-driven apps** for real-world social impact  
-- Predictive analytics with **Complex cross-nested datasets**  
+- **Retrieval-Augmented Generation (RAG) pipelines**
+- **Intelligent Dashboards** for learning analytics and research assistance
+- **Automation Scripts** for reducing academic overhead
+- **Prompt Engineering Frameworks** for educators and researchers
+
 
 ---
+
+## Important Questions
+- How can AI boost **meta-cognition** rather than cognitive offloading?
+- What roles should AI play in **human development**, **organizational culture**, and **lifelong learning**?
+- How will AI change the way we **organize work**, **govern societies**, and **understand ourselves**?
+
 
 ⭐ **If you like my work, consider giving my projects a star!**  
 
