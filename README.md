@@ -12,17 +12,22 @@ I believe in **Augmented Intelligence**—AI should **amplify human potential**,
 ## Featured Projects  
 
 ## 🧠 [RAG_Avatar](https://github.com/AlvesMH/Ask-Mark-RAG-Powered-AVATAR-)  |  [Live-Demo](https://ask-mark.onrender.com/)
-A **Context-aware Avatar powered by Sea-Lion & Pinecone**, with option of Uploading multiple PDFs for **Retrieval Augmented Generation**.
+A **Context-aware Avatar powered by Sea-Lion LLM & Pinecone**, with option of Uploading multiple Document formats for **Retrieval Augmented Generation**.
 
+## Clean Desktop UI
 <table style="border:2px solid red; border-collapse:collapse;">
   <tr>
     <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="img1.jpg" alt="RAG + AVATAR" style="width:100%; border:2px solid red;"></td>
     <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="img2.jpg" alt="Memory Persitence" style="width:100%; border:2px solid red;"></td>
   
   </tr>
+</table>  
+
+## Mobile Ready
+<table style="border:2px solid red; border-collapse:collapse;">
   <tr>
-    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="img_m1.jpg" alt="Mobile Friendly" style="width:30%; border:2px solid red;"></td>
-    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="img_m3.jpg" alt="Lightweight + FREE" style="width:30%; border:2px solid red;"></td>
+    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="img_m1.jpg" alt="Mobile Friendly" style="width:40%; border:2px solid red;"></td>
+    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="img_m3.jpg" alt="Lightweight + FREE" style="width:40%; border:2px solid red;"></td>
   </tr>
 </table>
 
