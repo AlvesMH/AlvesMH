@@ -13,7 +13,16 @@ I believe in **Augmented Intelligence**—AI should **amplify human potential**,
 
 ## 🧠 [RAG_Avatar](https://github.com/AlvesMH/Ask-Mark-RAG-Powered-AVATAR-)  |  [Live-Demo](https://ask-mark.onrender.com/)
 A **Context-aware Avatar powered by Sea-Lion & Pinecone**, with option of Uploading multiple PDFs for **Retrieval Augmented Generation**.
-![image](img4.jpg)
+<table>
+  <tr>
+    <td><img src="img1.jpg" alt="RAG + AVATAR" style="width:100%;"></td>
+    <td><img src="img2.jpg" alt="Memory Persitence" style="width:100%;"></td>
+  </tr>
+  <tr>
+    <td><img src="img_m1.jpg" alt="Mobile Friendly" style="width:50%;"></td>
+    <td><img src="img_m3.jpg" alt="Lightweight + FREE" style="width:50%;"></td>
+  </tr>
+</table>
 
 ### 🧠 [RAG_agent](https://github.com/alvesmh/RAG_agent)  |  [Live-Demo](https://simple-rag-agent.onrender.com/)
 A **Retrieval-Augmented Generation (RAG) agent** that ingests PDF documents, converts them into embeddings in a VectorStore, and retrieves relevant answers with semantic search.  
