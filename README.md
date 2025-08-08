@@ -17,8 +17,8 @@ A **Context-aware Avatar powered by Sea-Lion LLM & Pinecone**, with option of Up
 ## Clean Desktop UI
 <table style="border:2px solid red; border-collapse:collapse;">
   <tr>
-    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="img1.jpg" alt="RAG + AVATAR" style="width:100%; border:2px solid red;"></td>
-    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="img2.jpg" alt="Memory Persitence" style="width:100%; border:2px solid red;"></td>
+    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="img/img1.jpg" alt="RAG + AVATAR" style="width:100%; border:2px solid red;"></td>
+    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="img/img2.jpg" alt="Memory Persitence" style="width:100%; border:2px solid red;"></td>
   
   </tr>
 </table>  
@@ -26,29 +26,31 @@ A **Context-aware Avatar powered by Sea-Lion LLM & Pinecone**, with option of Up
 ## Mobile Ready
 <table style="border:2px solid red; border-collapse:collapse;">
   <tr>
-    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="img_m1.jpg" alt="Mobile Friendly" style="width:40%; border:2px solid red;"></td>
-    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="img_m3.jpg" alt="Lightweight + FREE" style="width:40%; border:2px solid red;"></td>
+    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="img/img_m1.jpg" alt="Mobile Friendly" style="width:40%; border:2px solid red;"></td>
+    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="img/img_m3.jpg" alt="Lightweight + FREE" style="width:40%; border:2px solid red;"></td>
   </tr>
 </table>
 
 
-## 🧠 [RAG_Avatar](https://github.com/AlvesMH/Ask-Mark-RAG-Powered-AVATAR-)  |  [Live-Demo](https://ask-mark.onrender.com/)
-A **Context-aware Avatar powered by Sea-Lion LLM & Pinecone**, with option of Uploading multiple Document formats for **Retrieval Augmented Generation**.
+## 🧠 [Generative Lesson Planner](https://github.com/AlvesMH/Lesson-Planner-App)  |  [Live-Demo](https://lesson-planner-app.onrender.com/)
+A **An AI-powered teaching assistant that helps educators design engaging, professional-grade lesson plans in minutes.** using your uploaded lesson contents via **Retrieval Augmented Generation**.
+
+- 📝 **Complete lesson plans** (with timing breakdowns)  
+- 👥 **Group activity handouts** in customizable formats  
+- 📋 **Instructor pointers & helpers** for in-class delivery 
 
 ## Clean Desktop UI
-<table style="border:2px solid red; border-collapse:collapse;">
-  <tr>
-    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="img1.jpg" alt="RAG + AVATAR" style="width:100%; border:2px solid red;"></td>
-    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="img2.jpg" alt="Memory Persitence" style="width:100%; border:2px solid red;"></td>
-  
-  </tr>
-</table>  
+![Desktop View](lp1.jpg)
 
-## Mobile Ready
+## Mobile Friendly
 <table style="border:2px solid red; border-collapse:collapse;">
   <tr>
-    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="img_m1.jpg" alt="Mobile Friendly" style="width:40%; border:2px solid red;"></td>
-    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="img_m3.jpg" alt="Lightweight + FREE" style="width:40%; border:2px solid red;"></td>
+    <td style="border:2px solid red; display:flex; justify-content:center; align-items:center;">
+      <img src="public/lp4.jpg" alt="Mobile Friendly" style="width:50%; border:2px solid red;">
+    </td>
+    <td style="border:2px solid red; display:flex; justify-content:center; align-items:center;">
+      <img src="public/lp3.jpg" alt="Clear instructions" style="width:50%; border:2px solid red;">
+    </td>
   </tr>
 </table>
 
