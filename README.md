@@ -40,16 +40,16 @@ A **An AI-powered teaching assistant that helps educators design engaging, profe
 - 📋 **Instructor pointers & helpers** for in-class delivery 
 
 ## Clean Desktop UI
-![Desktop View](lp1.jpg)
+![Desktop View](img/lp1.jpg)
 
 ## Mobile Friendly
 <table style="border:2px solid red; border-collapse:collapse;">
   <tr>
     <td style="border:2px solid red; display:flex; justify-content:center; align-items:center;">
-      <img src="public/lp4.jpg" alt="Mobile Friendly" style="width:50%; border:2px solid red;">
+      <img src="img/lp4.jpg" alt="Mobile Friendly" style="width:50%; border:2px solid red;">
     </td>
     <td style="border:2px solid red; display:flex; justify-content:center; align-items:center;">
-      <img src="public/lp3.jpg" alt="Clear instructions" style="width:50%; border:2px solid red;">
+      <img src="img/lp3.jpg" alt="Clear instructions" style="width:50%; border:2px solid red;">
     </td>
   </tr>
 </table>
