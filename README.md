@@ -56,10 +56,12 @@ A **An AI-powered teaching assistant that helps educators design engaging, profe
 
 
 ### 🧠 [RAG_agent](https://github.com/alvesmh/RAG_agent)  |  [Live-Demo](https://simple-rag-agent.onrender.com/)
-A **Retrieval-Augmented Generation (RAG) agent** that ingests PDF documents, converts them into embeddings in a VectorStore, and retrieves relevant answers with semantic search.  
+A **Retrieval-Augmented Generation (RAG) agent** that ingests PDF documents, converts them into embeddings in a VectorStore, and retrieves relevant answers with semantic search. 
+![RAG_agent](img/Simple_RAG_Agent.jpg) 
 
 ### 🤖 [llm_bot](https://github.com/alvesmh/llm_bot)   |  [Live-Demo](https://happybotsite.onrender.com/)
 **HappyBot** – A **Generative AI Telegram Companion Bot** designed to provide empathetic, context-aware interactions for lonely seniors in Singapore.  
+![HappyBot](img/happy_bot.jpg)
 
 ### 🛠️ [smart_code_enhancer](https://github.com/alvesmh/smart_code_enhancer)   |  [Live-Demo](https://code-enhancer.onrender.com/)
 An **AI-powered code reviewer** that detects bugs, suggests improvements, and enforces **PEP 8 compliance**—all without requiring a GPU or complex setup.  
