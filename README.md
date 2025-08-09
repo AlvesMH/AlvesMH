@@ -11,7 +11,7 @@ I believe in **Augmented Intelligence**—AI should **amplify human potential**,
 
 ## Featured Projects  
 
-## 🧠 [RAG_Avatar](https://github.com/AlvesMH/Ask-Mark-RAG-Powered-AVATAR-)  |  [Live-Demo](https://ask-mark.onrender.com/)
+# 🧠 [RAG_Avatar](https://github.com/AlvesMH/Ask-Mark-RAG-Powered-AVATAR-)  |  [Live-Demo](https://ask-mark.onrender.com/)
 A **Context-aware Avatar powered by Sea-Lion LLM & Pinecone**, with option of Uploading multiple Document formats for **Retrieval Augmented Generation**.
 
 ## Clean Desktop UI
@@ -32,7 +32,7 @@ A **Context-aware Avatar powered by Sea-Lion LLM & Pinecone**, with option of Up
 </table>
 
 
-## 🧠 [Generative Lesson Planner](https://github.com/AlvesMH/Lesson-Planner-App)  |  [Live-Demo](https://lesson-planner-app.onrender.com/)
+# 🧠 [Generative Lesson Planner](https://github.com/AlvesMH/Lesson-Planner-App)  |  [Live-Demo](https://lesson-planner-app.onrender.com/)
 A **An AI-powered teaching assistant that helps educators design engaging, professional-grade lesson plans in minutes.** using your uploaded lesson contents via **Retrieval Augmented Generation**.
 
 - 📝 **Complete lesson plans** (with timing breakdowns)  
@@ -55,18 +55,18 @@ A **An AI-powered teaching assistant that helps educators design engaging, profe
 </table>
 
 
-### 🧠 [RAG_agent](https://github.com/alvesmh/RAG_agent)  |  [Live-Demo](https://simple-rag-agent.onrender.com/)
+# 🧠 [RAG_agent](https://github.com/alvesmh/RAG_agent)  |  [Live-Demo](https://simple-rag-agent.onrender.com/)
 A **Retrieval-Augmented Generation (RAG) agent** that ingests PDF documents, converts them into embeddings in a VectorStore, and retrieves relevant answers with semantic search. 
 ![RAG_agent](img/Simple_RAG_Agent.jpg) 
 
-### 🤖 [llm_bot](https://github.com/alvesmh/llm_bot)   |  [Live-Demo](https://happybotsite.onrender.com/)
+# 🤖 [llm_bot](https://github.com/alvesmh/llm_bot)   |  [Live-Demo](https://happybotsite.onrender.com/)
 **HappyBot** – A **Generative AI Telegram Companion Bot** designed to provide empathetic, context-aware interactions for lonely seniors in Singapore.  
 ![HappyBot](img/happy_bot.jpg)
 
-### 🛠️ [smart_code_enhancer](https://github.com/alvesmh/smart_code_enhancer)   |  [Live-Demo](https://code-enhancer.onrender.com/)
+# 🛠️ [smart_code_enhancer](https://github.com/alvesmh/smart_code_enhancer)   |  [Live-Demo](https://code-enhancer.onrender.com/)
 An **AI-powered code reviewer** that detects bugs, suggests improvements, and enforces **PEP 8 compliance**—all without requiring a GPU or complex setup.  
 
-### 📊 [Ageing_Dashboard](https://github.com/alvesmh/Ageing_Dashboard)   |  [Live-Demo](https://ageing-dashboard.onrender.com/)
+# 📊 [Ageing_Dashboard](https://github.com/alvesmh/Ageing_Dashboard)   |  [Live-Demo](https://ageing-dashboard.onrender.com/)
 An interactive **Streamlit dashboard** to visualize and forecast aging-related fiscal and demographic risks using **World Bank data** and **ARIMA models**.  
 
 
