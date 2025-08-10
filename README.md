@@ -15,6 +15,7 @@ I believe in **Augmented Intelligence**—AI should **amplify human potential**,
 A **Context-aware Avatar powered by Sea-Lion LLM & Pinecone**, with option of Uploading multiple Document formats for **Retrieval Augmented Generation**.
 
 ## Clean Desktop UI
+
 <table style="border:2px solid red; border-collapse:collapse;">
   <tr>
     <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="img/img1.jpg" alt="RAG + AVATAR" style="width:100%; border:2px solid red;"></td>
@@ -24,6 +25,7 @@ A **Context-aware Avatar powered by Sea-Lion LLM & Pinecone**, with option of Up
 </table>  
 
 ## Mobile Ready
+
 <table style="border:2px solid red; border-collapse:collapse;">
   <tr>
     <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="img/img_m1.jpg" alt="Mobile Friendly" style="width:40%; border:2px solid red;"></td>
@@ -41,9 +43,11 @@ A **An AI-powered teaching assistant that helps educators design engaging, profe
 - 📋 **Instructor pointers & helpers** for in-class delivery 
 
 ## Clean Desktop UI
+
 ![Desktop View](img/lp1.jpg)
 
 ## Mobile Friendly
+
 <table style="border:2px solid red; border-collapse:collapse;">
   <tr>
     <td style="border:2px solid red; display:flex; justify-content:center; align-items:center;">
@@ -59,18 +63,21 @@ A **An AI-powered teaching assistant that helps educators design engaging, profe
 
 # 🧠 [RAG_agent](https://github.com/alvesmh/RAG_agent)  |  [Live-Demo](https://simple-rag-agent.onrender.com/)
 A **Retrieval-Augmented Generation (RAG) agent** that ingests PDF documents, converts them into embeddings in a VectorStore, and retrieves relevant answers with semantic search. 
+
 ![RAG_agent](img/Simple_RAG_Agent.jpg) 
 
 ---
 
 # 🤖 [llm_bot](https://github.com/alvesmh/llm_bot)   |  [Live-Demo](https://happybotsite.onrender.com/)
 **HappyBot** – A **Generative AI Telegram Companion Bot** designed to provide empathetic, context-aware interactions for lonely seniors in Singapore.  
+
 ![HappyBot](img/happy_bot.jpg)
 
 ---
 
 # 🛠️ [Article Summarizer](https://github.com/AlvesMH/Article_Summarizer)   |  [Live-Demo](https://summarizer-ifvu.onrender.com)
 A modern **academic article summarizer** with a React (Vite) frontend and a FastAPI backend. It uses **Sea Lion as the LLM and Hugging Face Router for embeddings, storing vectors in ChromaDB** 
+
 ![Summarizer](img/summarizer.jpg)
 
 ---
