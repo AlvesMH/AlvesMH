@@ -75,8 +75,8 @@ A **Retrieval-Augmented Generation (RAG) agent** that ingests PDF documents, con
 
 ---
 
-# 🛠️ [Article Summarizer](https://github.com/AlvesMH/Article_Summarizer)   |  [Live-Demo](https://summarizer-ifvu.onrender.com)
-A modern **academic article summarizer** with a React (Vite) frontend and a FastAPI backend. It uses **Sea Lion as the LLM and Hugging Face Router for embeddings, storing vectors in ChromaDB** 
+# 🛠️ [Article Summarizer](https://github.com/AlvesMH/summarizer_generator)  |  [Live-Demo](https://summarizer-generator.onrender.com)
+A modern **academic article summarizer-generator** with a React (Vite) frontend and a FastAPI backend. It uses **Sea Lion as the LLM and Hugging Face Router for embeddings, storing vectors in ChromaDB** 
 
 ![Summarizer](img/summarizer.jpg)
 
