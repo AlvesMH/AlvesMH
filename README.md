@@ -11,7 +11,7 @@ I believe in **Augmented Intelligence**—AI should **amplify human potential**,
 
 ## Featured Projects
 
-# 🤖 [Critical Thinker](https://github.com/AlvesMH/Critical-Thinker))  |  [Live-Demo](https://critical-thinker.onrender.com/)
+# 🤖 [Critical Thinker](https://github.com/AlvesMH/Critical-Thinker)  |  [Live-Demo](https://critical-thinker.onrender.com/)
 # Critical Thinker: Multi-Agent Critical Thinking Analysis (Paul & Elder Framework)
 **Critical Thinker** is a lightweight web application that supports rigorous evaluation of arguments, essays, policy proposals, and academic texts using **Paul & Elder’s Critical Thinking Framework**. The application operationalizes the framework through four independent analytical perspectives (“agents”) and produces a consolidated report that can be downloaded as a professionally formatted PDF.
 
