@@ -1,15 +1,33 @@
 # 👋 Hi there!
 
-Welcome to my GitHub!I use this space to prototype, document, and share **GenAI-powered tools, automation scripts, and intelligent workflows** designed to **augment human intelligence**—especially in the context of **learning, research, and strategic decision-making**.
+Welcome to my GitHub!I use this space to prototype, document, and share **GenAI-powered tools, automation scripts, and intelligent workflows** designed to **augment human intelligence**—especially in the context of **learning, research, and decision-making**.
 
 ---
 ## My Philosophy
 
-I believe in **Augmented Intelligence**—AI should **amplify human potential**, not replace it. My projects often live at the intersection of **technology, ethics, and human behavior**.
+I believe in **Augmented Intelligence**—AI should **amplify human potential**, not replace it.
 
 ---
 
-## Featured Projects  
+## Featured Projects
+
+# 🤖 [Critical Thinker](https://github.com/AlvesMH/Critical-Thinker))  |  [Live-Demo](https://critical-thinker.onrender.com/)
+# Critical Thinker: Multi-Agent Critical Thinking Analysis (Paul & Elder Framework)
+**Critical Thinker** is a lightweight web application that supports rigorous evaluation of arguments, essays, policy proposals, and academic texts using **Paul & Elder’s Critical Thinking Framework**. The application operationalizes the framework through four independent analytical perspectives (“agents”) and produces a consolidated report that can be downloaded as a professionally formatted PDF.
+
+The design principle is intentionally pedagogical and method-driven: the app is not a replacement for critical thinking, but a structured aid to **surface assumptions, scrutinize evidence, evaluate reasoning quality, and identify implications**—all while maintaining explicit standards of intellectual rigor.
+
+## Clean Desktop and Mobile UI
+
+<table style="border:2px solid red; border-collapse:collapse;">
+  <tr>
+    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="img/critical-thinker.jpg" alt="critical-thinker" style="width:100%; border:2px solid red;"></td>
+    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="img/critical-thinker_mobile.jpg" alt="critical-thinker_mobile" style="width:100%; border:2px solid red;"></td>
+  
+  </tr>
+</table>  
+
+---
 
 # 🧠 [RAG_Avatar](https://github.com/AlvesMH/Ask-Mark-RAG-Powered-AVATAR-)  |  [Live-Demo](https://ask-mark.onrender.com/)
 A **Context-aware Avatar powered by Sea-Lion LLM & Pinecone**, with option of Uploading multiple Document formats for **Retrieval Augmented Generation**.
