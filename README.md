@@ -29,6 +29,21 @@ The design principle is intentionally pedagogical and method-driven: the app is 
 
 ---
 
+# 🤖 [Six Thinking Hats](https://github.com/AlvesMH/six-thinking-hats-app)  |  [Live-Demo](https://six-thinking-hats.onrender.com/)
+# Six Thinking Hats - Student Group Analysis App for analysing an idea, solution, or problem statement using Edward de Bono’s Six Thinking Hats method.
+The design principle is intentionally pedagogical and method-driven: the app is not a replacement for critical thinking, but a structured aid to **surface assumptions, scrutinize evidence, evaluate reasoning quality, and identify implications**—all while maintaining explicit standards of intellectual rigor.
+
+## Clean Desktop and Mobile UI
+
+<table style="border:2px solid red; border-collapse:collapse;">
+  <tr>
+    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="img/six_hats_app.jpg" alt="six_hats_app" style="width:100%; border:2px solid red;"></td>
+    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="img/six_hats_app_mobile.jpg" alt="six_hats_app_mobile" style="width:100%; border:2px solid red;"></td>
+  
+  </tr>
+</table>  
+
+---
 # 🧠 [RAG_Avatar](https://github.com/AlvesMH/Ask-Mark-RAG-Powered-AVATAR-)  |  [Live-Demo](https://ask-mark.onrender.com/)
 A **Context-aware Avatar powered by Sea-Lion LLM & Pinecone**, with option of Uploading multiple Document formats for **Retrieval Augmented Generation**.
 
