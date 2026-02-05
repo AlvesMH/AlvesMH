@@ -29,7 +29,7 @@ The design principle is intentionally pedagogical and method-driven: the app is 
 
 ---
 
-# 🤖 [Six Thinking Hats]((https://github.com/AlvesMH/AlvesMH/tree/main/img/pack/six-hats/README.md))  |  [Live-Demo](https://six-thinking-hats.onrender.com/)
+# 🤖 [Six Thinking Hats](https://github.com/AlvesMH/AlvesMH/tree/main/img/pack/six-hats/README.md) |  [Live-Demo](https://six-thinking-hats.onrender.com/)
 ## Student Group Analysis App for analysing an idea, solution, or problem statement using Edward de Bono’s Six Thinking Hats method.
 The design principle is intentionally pedagogical and method-driven: the app is not a replacement for critical thinking, but a structured aid to **surface assumptions, scrutinize evidence, evaluate reasoning quality, and identify implications**—all while maintaining explicit standards of intellectual rigor.
 
