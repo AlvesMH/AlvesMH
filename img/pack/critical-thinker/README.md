@@ -10,8 +10,8 @@ The design principle is intentionally pedagogical and method-driven: the app is 
 
 <table style="border:2px solid red; border-collapse:collapse;">
   <tr>
-    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="img/critical-thinker.jpg" alt="critical-thinker" style="width:100%; border:2px solid red;"></td>
-    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="img/critical-thinker_mobile.jpg" alt="critical-thinker_mobile" style="width:100%; border:2px solid red;"></td>
+    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="https://github.com/AlvesMH/AlvesMH/blob/main/img/critical-thinker.jpg" alt="critical-thinker" style="width:100%; border:2px solid red;"></td>
+    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="https://github.com/AlvesMH/AlvesMH/blob/main/img/critical-thinker_mobile.jpg" alt="critical-thinker_mobile" style="width:100%; border:2px solid red;"></td>
   
   </tr>
 </table>  

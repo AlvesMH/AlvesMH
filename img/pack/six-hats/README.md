@@ -4,8 +4,8 @@ A lightweight, single-service web app for analysing an idea, solution, or proble
 
 <table style="border:2px solid red; border-collapse:collapse;">
   <tr>
-    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="img/six_hats_app.jpg" alt="six_hats_app" style="width:100%; border:2px solid red;"></td>
-    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="img/six_hats_app_mobile.jpg" alt="six_hats_app_mobile" style="width:100%; border:2px solid red;"></td>
+    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="https://github.com/AlvesMH/AlvesMH/blob/main/img/six_hats_app.jpg" alt="six_hats_app" style="width:100%; border:2px solid red;"></td>
+    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="https://github.com/AlvesMH/AlvesMH/blob/main/img/six_hats_app_mobile.jpg" alt="six_hats_app_mobile" style="width:100%; border:2px solid red;"></td>
   
   </tr>
 </table> 
