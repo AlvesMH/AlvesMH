@@ -5,7 +5,7 @@
 A modern academic article summarizer with a React (Vite) frontend and a FastAPI backend.
 It uses **Sea Lion** as the LLM and **Hugging Face Router** for embeddings, storing vectors in **ChromaDB**.
 
-![Summarizer](img/summarizer.jpg)
+![Summarizer](summarizer.jpg)
 
 ## Features
 - Paste a URL or upload a PDF/TXT file
