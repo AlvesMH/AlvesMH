@@ -11,7 +11,7 @@ I believe in **Augmented Intelligence**—AI should **amplify human potential**,
 
 ## Featured Projects
 
-# 🤖 [Critical Thinker](https://github.com/AlvesMH/AlvesMH/tree/main/img/pack/critical-thinker/README.md)  |  [Live-Demo](https://critical-thinker.onrender.com/)
+# 🤖 [Critical Thinker](https://github.com/AlvesMH/AlvesMH/tree/main/img/Critical-Thinker.md)  |  [Live-Demo](https://critical-thinker.onrender.com/)
 ## Multi-Agent Critical Thinking Analysis (Paul & Elder Framework)
 **Critical Thinker** is a lightweight web application that supports rigorous evaluation of arguments, essays, policy proposals, and academic texts using **Paul & Elder’s Critical Thinking Framework**. The application operationalizes the framework through four independent analytical perspectives (“agents”) and produces a consolidated report that can be downloaded as a professionally formatted PDF.
 
@@ -29,7 +29,7 @@ The design principle is intentionally pedagogical and method-driven: the app is 
 
 ---
 
-# 🤖 [Six Thinking Hats](https://github.com/AlvesMH/AlvesMH/tree/main/img/pack/six-hats/README.md) |  [Live-Demo](https://six-thinking-hats.onrender.com/)
+# 🤖 [Six Thinking Hats](https://github.com/AlvesMH/AlvesMH/tree/main/img/six-thinking-hats.md) |  [Live-Demo](https://six-thinking-hats.onrender.com/)
 ## Student Group Analysis App for analysing an idea, solution, or problem statement using Edward de Bono’s Six Thinking Hats method.
 The design principle is intentionally pedagogical and method-driven: the app is not a replacement for critical thinking, but a structured aid to **surface assumptions, scrutinize evidence, evaluate reasoning quality, and identify implications**—all while maintaining explicit standards of intellectual rigor.
 
@@ -108,7 +108,7 @@ A **Retrieval-Augmented Generation (RAG) agent** that ingests PDF documents, con
 
 ---
 
-# 🛠️ [Article Summarizer](https://github.com/AlvesMH/summarizer_generator)  |  [Live-Demo](https://summarizer-generator.onrender.com)
+# 🛠️ [Article Summarizer](https://github.com/AlvesMH//AlvesMH/tree/main/img/Summarizer.md)  |  [Live-Demo](https://summarizer-generator.onrender.com)
 A modern **academic article summarizer-generator** with a React (Vite) frontend and a FastAPI backend. It uses **Sea Lion as the LLM and Hugging Face Router for embeddings, storing vectors in ChromaDB** 
 
 ![Summarizer](img/summarizer.jpg)
