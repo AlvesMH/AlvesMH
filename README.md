@@ -11,6 +11,26 @@ I believe in **Augmented Intelligence**—AI should **amplify human potential**,
 
 ## Featured Projects
 
+# 🤖 [Ask-Julia](https://github.com/AlvesMH/AlvesMH/tree/main/img/ask-julia.md)  |  [Live-Demo](https://ask-julia.onrender.com/)
+## Ask Julia - Interactive Assistant Avatar
+**Ask Julia** is an interactive avatar guide designed to help people explore evidence-informed ideas about AI, teaching, learning, and higher education.
+
+It combines a conversational avatar, spoken answers, evidence summaries, and fuller explanations to make a curated knowledge base easier to use.
+
+It is built for a simple purpose: to let users ask natural questions and receive clear, concise answers grounded in a curated knowledge base. Instead of browsing through long documents, users can ask Julia directly and receive a spoken response, a short evidence summary, and a fuller explanation when needed.
+
+## Clean Desktop and Mobile UI
+
+<table style="border:2px solid red; border-collapse:collapse;">
+  <tr>
+    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="img/ask-julia.jpg" alt="critical-thinker" style="width:100%; border:2px solid red;"></td>
+    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="img/ask-julia_mobile.jpg" alt="critical-thinker_mobile" style="width:100%; border:2px solid red;"></td>
+  
+  </tr>
+</table>  
+
+---
+
 # 🤖 [Critical Thinker](https://github.com/AlvesMH/AlvesMH/tree/main/img/Critical-Thinker.md)  |  [Live-Demo](https://critical-thinker.onrender.com/)
 ## Multi-Agent Critical Thinking Analysis (Paul & Elder Framework)
 **Critical Thinker** is a lightweight web application that supports rigorous evaluation of arguments, essays, policy proposals, and academic texts using **Paul & Elder’s Critical Thinking Framework**. The application operationalizes the framework through four independent analytical perspectives (“agents”) and produces a consolidated report that can be downloaded as a professionally formatted PDF.
