@@ -9,6 +9,7 @@ It is built for a simple purpose: to let users ask natural questions and receive
 Ask Julia is not designed to answer every possible question. It works best when questions are related to the app’s knowledge base and intended topic area.
 
 ---
+
 <table style="border:2px solid red; border-collapse:collapse;">
   <tr>
     <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="ask-julia.jpg" alt="six_hats_app" style="width:100%; border:2px solid red;"></td>
@@ -16,7 +17,9 @@ Ask Julia is not designed to answer every possible question. It works best when 
   
   </tr>
 </table> 
+
 ---
+
 ## What Julia can help with
 
 Julia can help users think through questions such as:
