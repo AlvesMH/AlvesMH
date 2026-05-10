@@ -12,12 +12,12 @@ I believe in **Augmented Intelligence**—AI should **amplify human potential**,
 ## Featured Projects
 
 # 🤖 [Ask-Julia](https://github.com/AlvesMH/AlvesMH/tree/main/img/ask-julia.md)  |  [Live-Demo](https://ask-julia.onrender.com/)
-## Ask Julia - Interactive Assistant Avatar
-**Ask Julia** is an interactive avatar guide designed to help people explore evidence-informed ideas about AI, teaching, learning, and higher education.
+## Ask-Julia - Interactive Assistant Avatar
+**Ask-Julia** is a voice-first interactive avatar designed to help people explore evidence-informed ideas about AI, teaching, learning, and higher education (the current uploaded subject domain).
 
 It combines a conversational avatar, spoken answers, evidence summaries, and fuller explanations to make a curated knowledge base easier to use.
 
-It is built for a simple purpose: to let users ask natural questions and receive clear, concise answers grounded in a curated knowledge base. Instead of browsing through long documents, users can ask Julia directly and receive a spoken response, a short evidence summary, and a fuller explanation when needed.
+Ask-Julia lets users ask natural questions and receive clear, concise answers grounded in any manually curated and vast knowledge base. Instead of browsing through long documents, users can ask Julia directly and receive a spoken response, a short evidence summary, and a fuller explanation when needed.
 
 ## Clean Desktop and Mobile UI
 
