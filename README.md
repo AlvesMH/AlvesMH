@@ -1,194 +1,146 @@
-# 👋 Hi there!
+# Human-Centred AI for Learning, Work, and Decision Support
 
-Welcome to my GitHub!I use this space to prototype, document, and share **GenAI-powered tools, automation scripts, and intelligent workflows** designed to **augment human intelligence**—especially in the context of **learning, research, and decision-making**.
+I design and prototype AI-enabled tools that augment human judgement rather than replace it.
 
----
-## My Philosophy
-
-I believe in **Augmented Intelligence**—AI should **amplify human potential**, not replace it.
+My work sits at the intersection of higher education, organisational behaviour, learning design, assessment innovation, and applied AI systems. This GitHub profile documents practical prototypes for teaching, research, structured reasoning, retrieval-augmented generation, and human-AI interaction.
 
 ---
 
-## Featured Projects
+## Design philosophy
 
-# 🤖 [Ask-Julia](https://github.com/AlvesMH/AlvesMH/tree/main/img/ask-julia.md)  |  [Live-Demo](https://ask-julia.onrender.com/)
-## Ask-Julia - Interactive Assistant Avatar
-**Ask-Julia** is a voice-first interactive avatar designed to help people explore evidence-informed ideas about AI, teaching, learning, and higher education (the current uploaded subject domain).
+AI should amplify human potential, not replace it.
 
-It combines a conversational avatar, spoken answers, evidence summaries, and fuller explanations to make a curated knowledge base easier to use.
+The tools here are built around three principles:
 
-Ask-Julia lets users ask natural questions and receive clear, concise answers grounded in any manually curated and vast knowledge base. Instead of browsing through long documents, users can ask Julia directly and receive a spoken response, a short evidence summary, and a fuller explanation when needed.
-
-## Clean Desktop and Mobile UI
-
-<table style="border:2px solid red; border-collapse:collapse;">
-  <tr>
-    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="img/ask-julia.jpg" alt="critical-thinker" style="width:100%; border:2px solid red;"></td>
-    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="img/ask-julia_mobile.jpg" alt="critical-thinker_mobile" style="width:100%; border:2px solid red;"></td>
-  
-  </tr>
-</table>  
+1. **Augmentation over automation** — AI should support judgement, reflection, and better decisions.
+2. **Evidence over fluency** — answers should be grounded in curated sources where possible.
+3. **Pedagogy before novelty** — educational AI tools should improve learning processes, not merely generate content.
 
 ---
 
-# 🤖 [Critical Thinker](https://github.com/AlvesMH/AlvesMH/tree/main/img/Critical-Thinker.md)  |  [Live-Demo](https://critical-thinker.onrender.com/)
-## Multi-Agent Critical Thinking Analysis (Paul & Elder Framework)
-**Critical Thinker** is a lightweight web application that supports rigorous evaluation of arguments, essays, policy proposals, and academic texts using **Paul & Elder’s Critical Thinking Framework**. The application operationalizes the framework through four independent analytical perspectives (“agents”) and produces a consolidated report that can be downloaded as a professionally formatted PDF.
+## Featured projects
 
-The design principle is intentionally pedagogical and method-driven: the app is not a replacement for critical thinking, but a structured aid to **surface assumptions, scrutinize evidence, evaluate reasoning quality, and identify implications**—all while maintaining explicit standards of intellectual rigor.
+| Project | Purpose | Demonstrates | Links |
+|---|---|---|---|
+| **Ask-Julia** | Evidence-grounded voice avatar for higher education knowledge exploration | RAG, avatar UX, evidence summaries, speech interaction | [Project](https://github.com/AlvesMH/AlvesMH/blob/main/img/ask-julia.md) · [Live demo](https://ask-julia.onrender.com/) |
+| **Critical Thinker** | Multi-perspective argument analysis using the Paul-Elder framework | Structured reasoning, critique scaffolding, PDF reporting | [Project](https://github.com/AlvesMH/AlvesMH/blob/main/img/pack/critical-thinker/README.md) · [Live demo](https://critical-thinker.onrender.com/) |
+| **Six Thinking Hats** | Student group analysis workflow using Edward de Bono’s method | Parallel thinking, group reasoning, classroom workflow | [Project](https://github.com/AlvesMH/AlvesMH/blob/main/img/pack/six-hats/README.md) · [Live demo](https://six-thinking-hats.onrender.com/) |
+| **Generative Lesson Planner** | AI-supported lesson design from instructor-provided materials | Learning design, RAG, instructor workflow support | [Repository](https://github.com/AlvesMH/Lesson-Planner-App) · [Live demo](https://lesson-planner-app.onrender.com/) |
+| **RAG Avatar** | Context-aware avatar using uploaded documents | RAG, document Q&A, conversational interface | [Repository](https://github.com/AlvesMH/Ask-Mark-RAG-Powered-AVATAR-) · [Live demo](https://ask-mark.onrender.com/) |
 
-## Clean Desktop and Mobile UI
-
-<table style="border:2px solid red; border-collapse:collapse;">
-  <tr>
-    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="img/critical-thinker.jpg" alt="critical-thinker" style="width:100%; border:2px solid red;"></td>
-    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="img/critical-thinker_mobile.jpg" alt="critical-thinker_mobile" style="width:100%; border:2px solid red;"></td>
-  
-  </tr>
-</table>  
+> Live demos hosted on Render may take a short time to wake up on first use.
 
 ---
 
-# 🤖 [Six Thinking Hats](https://github.com/AlvesMH/AlvesMH/tree/main/img/six-thinking-hats.md) |  [Live-Demo](https://six-thinking-hats.onrender.com/)
-## Student Group Analysis App for analysing an idea, solution, or problem statement using Edward de Bono’s Six Thinking Hats method.
-The design principle is intentionally pedagogical and method-driven: the app is not a replacement for critical thinking, but a structured aid to **surface assumptions, scrutinize evidence, evaluate reasoning quality, and identify implications**—all while maintaining explicit standards of intellectual rigor.
+## Project snapshots
 
-## Clean Desktop and Mobile UI
+### Ask-Julia — interactive assistant avatar
 
-<table style="border:2px solid red; border-collapse:collapse;">
+Ask-Julia is a voice-enabled avatar designed to help people explore evidence-informed ideas about AI, teaching, learning, and higher education. It combines a conversational avatar, spoken answers, evidence summaries, and fuller explanations to make a curated knowledge base easier to use.
+
+<table>
   <tr>
-    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="img/six_hats_app.jpg" alt="six_hats_app" style="width:100%; border:2px solid red;"></td>
-    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="img/six_hats_app_mobile.jpg" alt="six_hats_app_mobile" style="width:100%; border:2px solid red;"></td>
-  
-  </tr>
-</table>  
-
----
-# 🧠 [RAG_Avatar](https://github.com/AlvesMH/Ask-Mark-RAG-Powered-AVATAR-)  |  [Live-Demo](https://ask-mark.onrender.com/)
-A **Context-aware Avatar powered by Sea-Lion LLM & Pinecone**, with option of Uploading multiple Document formats for **Retrieval Augmented Generation**.
-
-## Clean Desktop UI
-
-<table style="border:2px solid red; border-collapse:collapse;">
-  <tr>
-    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="img/img1.jpg" alt="RAG + AVATAR" style="width:100%; border:2px solid red;"></td>
-    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="img/img2.jpg" alt="Memory Persitence" style="width:100%; border:2px solid red;"></td>
-  
-  </tr>
-</table>  
-
-## Mobile Ready
-
-<table style="border:2px solid red; border-collapse:collapse;">
-  <tr>
-    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="img/img_m1.jpg" alt="Mobile Friendly" style="width:40%; border:2px solid red;"></td>
-    <td style="border:2px solid red; text-align:center; vertical-align:middle;"><img src="img/img_m3.jpg" alt="Lightweight + FREE" style="width:40%; border:2px solid red;"></td>
+    <td align="center"><img src="img/ask-julia.jpg" alt="Ask-Julia desktop interface" width="100%"></td>
+    <td align="center"><img src="img/ask-julia_mobile.jpg" alt="Ask-Julia mobile interface" width="100%"></td>
   </tr>
 </table>
 
----
+### Critical Thinker — structured argument analysis
 
-# 🧠 [Generative Lesson Planner](https://github.com/AlvesMH/Lesson-Planner-App)  |  [Live-Demo](https://lesson-planner-app.onrender.com/)
-A **An AI-powered teaching assistant that helps educators design engaging, professional-grade lesson plans in minutes.** using your uploaded lesson contents via **Retrieval Augmented Generation**.
+Critical Thinker supports rigorous evaluation of arguments, essays, policy proposals, and academic texts. It operationalises critique through analytical perspectives that examine purpose, assumptions, evidence quality, reasoning standards, implications, and fairness.
 
-- 📝 **Complete lesson plans** (with timing breakdowns)  
-- 👥 **Group activity handouts** in customizable formats  
-- 📋 **Instructor pointers & helpers** for in-class delivery 
-
-## Clean Desktop UI
-
-![Desktop View](img/lp1.jpg)
-
-## Mobile Friendly
-
-<table style="border:2px solid red; border-collapse:collapse;">
+<table>
   <tr>
-    <td style="border:2px solid red; display:flex; justify-content:center; align-items:center;">
-      <img src="img/lp4.jpg" alt="Mobile Friendly" style="width:50%; border:2px solid red;">
-    </td>
-    <td style="border:2px solid red; display:flex; justify-content:center; align-items:center;">
-      <img src="img/lp3.jpg" alt="Clear instructions" style="width:50%; border:2px solid red;">
-    </td>
+    <td align="center"><img src="img/critical-thinker.jpg" alt="Critical Thinker desktop interface" width="100%"></td>
+    <td align="center"><img src="img/critical-thinker_mobile.jpg" alt="Critical Thinker mobile interface" width="100%"></td>
   </tr>
 </table>
 
----
+### Six Thinking Hats — structured group reasoning
 
-# 🧠 [RAG_agent](https://github.com/alvesmh/RAG_agent)  |  [Live-Demo](https://simple-rag-agent.onrender.com/)
-A **Retrieval-Augmented Generation (RAG) agent** that ingests PDF documents, converts them into embeddings in a VectorStore, and retrieves relevant answers with semantic search. 
+Six Thinking Hats helps students and teams separate facts, feelings, risks, benefits, creativity, and process control before producing a final synthesis. The aim is better reasoning quality, not faster content generation.
 
-![RAG_agent](img/Simple_RAG_Agent.jpg) 
+<table>
+  <tr>
+    <td align="center"><img src="img/six_hats_app.jpg" alt="Six Thinking Hats desktop interface" width="100%"></td>
+    <td align="center"><img src="img/six_hats_app_mobile.jpg" alt="Six Thinking Hats mobile interface" width="100%"></td>
+  </tr>
+</table>
 
----
+### Generative Lesson Planner — lesson design workflow
 
-# 🤖 [llm_bot](https://github.com/alvesmh/llm_bot)   |  [Live-Demo](https://happybotsite.onrender.com/)
-**HappyBot** – A **Generative AI Telegram Companion Bot** designed to provide empathetic, context-aware interactions for lonely seniors in Singapore.  
+Generative Lesson Planner helps educators produce lesson plans, activity handouts, and instructor pointers from uploaded lesson materials. The tool is designed as a preparation assistant: educator judgement, contextual adaptation, and learning outcomes remain central.
 
-![HappyBot](img/happy_bot.jpg)
-
----
-
-# 🛠️ [Article Summarizer](https://github.com/AlvesMH//AlvesMH/tree/main/img/Summarizer.md)  |  [Live-Demo](https://summarizer-generator.onrender.com)
-A modern **academic article summarizer-generator** with a React (Vite) frontend and a FastAPI backend. It uses **Sea Lion as the LLM and Hugging Face Router for embeddings, storing vectors in ChromaDB** 
-
-![Summarizer](img/summarizer.jpg)
+![Generative Lesson Planner desktop view](img/lp1.jpg)
 
 ---
 
-# 🛠️ [smart_code_enhancer](https://github.com/alvesmh/smart_code_enhancer)   |  [Live-Demo](https://code-enhancer.onrender.com/)
-An **AI-powered code reviewer** that detects bugs, suggests improvements, and enforces **PEP 8 compliance**—all without requiring a GPU or complex setup.  
+## What these projects demonstrate
+
+- Retrieval-augmented generation for curated educational knowledge bases
+- AI-supported critical thinking and structured reasoning
+- Human-centred interface design for learning tools
+- Lightweight deployment of AI applications for real users
+- Responsible AI as a scaffold for judgement, not a substitute for it
 
 ---
 
-# 📊 [Ageing_Dashboard](https://github.com/alvesmh/Ageing_Dashboard)   |  [Live-Demo](https://ageing-dashboard.onrender.com/)
-An interactive **Streamlit dashboard** to visualize and forecast aging-related fiscal and demographic risks using **World Bank data** and **ARIMA models**.  
+## Current focus
 
+- Human-centred AI in higher education
+- AI-supported assessment and feedback workflows
+- RAG systems for research, teaching, and knowledge work
+- Service work, job redesign, and AI adoption
+- Tools that improve judgement, learning, and decision quality
 
-* You may need to wait a few seconds for Render to load the Live-Demos
 ---
 
-## 🛠️ Tech Stack  
+## Additional experiments
+
+Earlier prototypes and exploratory builds include article summarisation, ageing dashboards, Telegram bots, code review helpers, and lightweight RAG agents.
+
+| Project | Focus | Links |
+|---|---|---|
+| Simple RAG Agent | PDF ingestion, vector search, semantic answer retrieval | [Repository](https://github.com/alvesmh/RAG_agent) · [Live demo](https://simple-rag-agent.onrender.com/) |
+| Academic Article Summariser | Academic PDF summarisation and generation workflow | [Project](https://github.com/AlvesMH/AlvesMH/blob/main/img/Summarizer.md) · [Live demo](https://summarizer-generator.onrender.com) |
+| Code Review Assistant | Lightweight AI-supported code review and improvement suggestions | [Repository](https://github.com/alvesmh/smart_code_enhancer) · [Live demo](https://code-enhancer.onrender.com/) |
+| Ageing Dashboard | Demographic and fiscal-risk dashboard using World Bank data | [Repository](https://github.com/alvesmh/Ageing_Dashboard) · [Live demo](https://ageing-dashboard.onrender.com/) |
+
+---
+
+## Technical stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-
-
----
-
-## 📈 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvesmh&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alvesmh&layout=compact&theme=radical)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alvesmh&theme=radical)  
-
-![Profile Views](https://komarev.com/ghpvc/?username=alvesmh&style=flat-square&color=blue)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## What I’m Exploring  
+## Questions guiding the work
 
-- **Retrieval-Augmented Generation (RAG) pipelines**
-- **Intelligent Dashboards** for learning analytics and research assistance
-- **Automation Scripts** for reducing academic overhead
-- **Prompt Engineering Frameworks** for educators and researchers
-
+- How can AI boost metacognition rather than cognitive offloading?
+- How can educational AI tools make reasoning, evidence, and judgement more visible?
+- What should be redesigned in work systems when AI reduces routine production costs?
+- How can service organisations use AI without weakening the human qualities that make service valuable?
 
 ---
-
-## Important Questions
-- How can AI boost **meta-cognition** rather than cognitive offloading?
-- What roles should AI play in **human development**, **organizational culture**, and **lifelong learning**?
-- How will AI change the way we **organize work**, **govern societies**, and **understand ourselves**?
-
-
-⭐ **If you like my work, consider giving my projects a star!**  
 
 ![image](img/rag-generative-ai.jpg)
+
+---
+
+## GitHub activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvesmh&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alvesmh&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alvesmh&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=alvesmh&style=flat-square&color=blue)
+  
+
 ---
