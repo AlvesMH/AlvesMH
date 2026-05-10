@@ -134,10 +134,6 @@ Earlier prototypes and exploratory builds include article summarisation, ageing 
 
 ## GitHub activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvesmh&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alvesmh&layout=compact&theme=radical)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alvesmh&theme=radical)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alvesmh&style=flat-square&color=blue)
